@@ -1,2 +1,2 @@
-# expoysis
-fopr internship
+# exposys
+for internship
